@@ -1,6 +1,6 @@
 ## Legacy Community Discussions
 
-In this repository, you will find discussion categories for various LEGACY network, platform and product areas. Feel free to share feedback, discuss topics with other community members, or ask questions.
+In this repository, you will find discussion categories for various LEGACY features, the network, platform, our road map and other product areas. Feel free to share feedback, discuss topics with other community members, or ask questions.
 
 ![Welcome to the Legacy community discussions](https://raw.githubusercontent.com/TheLegacyNetwork/.github/main/profile/legacy-github-splash.png)
 
@@ -37,7 +37,7 @@ Prior to creating a new discussion, please take a look at previous discussions t
 
 ### From a suggestion to a shipped feature
 
-Once you kick off a discussion, the LEGACY team will evaluate the feedback but will not be able to respond to every submission. From there, we will work with you, and the LEGACY community, to ensure we understand the current capabilities the LEGACY platform or product doesn’t have and explore the space for potential solutions to your problem statement:
+Once you initiate a discussion, the LEGACY team will evaluate the feedback, but will not be able to respond to every submission. From there, we will work with you, and the LEGACY community, to ensure we understand the current capabilities the LEGACY platform lacks, and explore the space for potential solutions to your problem statement:
 
 - If the LEGACY community determines that we are going to prioritise a feature to solve the problem you've identified, we may open an issue and track its development in the [LEGACY specs repository roadmap](https://github.com/TheLegacyNetwork/specs/docs/roadmap/).
 - If the LEGACY community determines that we will not be working to solve the problem you have identified, we may comment on the discussion describing our reasoning so our decisions can remain transparent.
