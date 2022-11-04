@@ -1,5 +1,7 @@
 ## Legacy Community Discussions
 
+We welcome you to join the LEGACY community, and even the LEGACY team!
+
 In this repository, you will find discussion categories for various LEGACY network, platform and product areas. Feel free to share feedback, discuss topics with other community members, or ask questions.
 
 ![Welcome to the Legacy community discussions](https://raw.githubusercontent.com/TheLegacyNetwork/.github/main/profile/legacy-github-splash.png)
